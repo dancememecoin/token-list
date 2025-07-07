@@ -19,6 +19,142 @@
         "tiktok": "https://www.tiktok.com/@dancememecoin",
         "description": "Welcome to the party! Let’s have fun and earn. Buy, collect and trade popular dance styles. Buy and hold 1,000,000+ tokens to earn $SOL automatically."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VHuQDXWRRoi5rfGsDikYiCVWk1YA9mDcvCXgLkAb22D",
+      "symbol": "KIZOMBA",
+      "name": "KIZOMBA",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/tCRB3qpR/DANCE-MEMECOIN-KIZOMBA-profile.png",
+      "tags": ["meme", "utility-token", "defi", "country", "culture"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://www.instagram.com/dancememecoin",
+        "youtube": "https://www.youtube.com/@dancememecoin",
+        "tiktok": "https://www.tiktok.com/@dancememecoin",
+        "description": "$KIZOMBA by DANCE MEMECOIN. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4YQp34PnHxQtiR6o9FbspyfXeCLw1QsmPGFw5tUTN5gG",
+      "symbol": "SALSA",
+      "name": "SALSA",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/3RnvYH69/DANCE-MEMECOIN-SALSA-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$SALSA by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9yXncm37xbQ9yyoBCSXbnxmHM1qCcBovV7FMDXvwzzvR",
+      "symbol": "KOMPA",
+      "name": "KOMPA",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/5ysq7zb4/DANCE-MEMECOIN-KOMPA-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$KOMPA by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DPFSxydbhq3o2aQE2t9gBXBgWGzom9souhNu1zADzFvC",
+      "symbol": "BACHATA",
+      "name": "BACHATA",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/HLvWBs7w/DANCE-MEMECOIN-BACHATA-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$BACHATA by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6Vnj8rJ6pgkn8Pf47qiaQ3bGSaKzjJi61w6QNLkvbKCP",
+      "symbol": "TARRAXA",
+      "name": "TARRAXA",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/ZnnyqMzm/DANCE-MEMECOIN-TARRAXA-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$TARRAXA by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J4CMpzF6Rppi4QMEVkLbghUhfmJyGAwpxPNNtccGcaXz",
+      "symbol": "URBANKIZ",
+      "name": "URBANKIZ",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/sfLMcKRB/DANCE-MEMECOIN-URBANKIZ-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$URBANKIZ by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "pWhWr9yc5SVDBGoA2Rivd2nviur9wDYUASueTT8DKXN",
+      "symbol": "HIPHOP",
+      "name": "HIP-HOP",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/8z9rtSfr/DANCE-MEMECOIN-HIPHOP-profile.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$HIPHOP by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GkTasq3zzwr6p3yYmDiKS5vtux3cRV9Quoakiz9UHtCN",
+      "symbol": "AFRO",
+      "name": "AFRO DANCE",
+      "decimals": 6,
+      "logoURI": "https://i.postimg.cc/LXRtmDs4/DANCE-MEMECOIN-AFRO-profile-200x200.png",
+      "tags": ["meme", "utility-token", "defi", "dance"],
+      "extensions": {
+        "website": "https://dancememecoin.com",
+        "twitter": "https://twitter.com/dancememecoin",
+        "instagram": "https://instagram.com/dancememecoin",
+        "tiktok": "https://tiktok.com/@dancememecoin",
+        "youtube": "https://youtube.com/@dancememecoin",
+        "description": "$AFRO by DANCE MEMECOIN is a Solana-based meme coin. Buy, collect and trade popular dance styles. Hold 1,000,000+ tokens to earn $SOL automatically – based on daily trading volume."
+      }
     }
   ]
 }
